@@ -16,3 +16,7 @@ Nous imaginons que nous allons devoir également utiliser une application avec u
 Après avoir discuté de cette idée de projet, nous nous sommes consacrés à la recherche d’une imprimante 3D sur des sites marchands afin de pouvoir nous la procurer le plus tôt possible.
     
 Enfin, nous avons essayé de définir quel serait le rôle de chacun. Je pense que je m’occuperai plutôt du montage de l’imprimante et Sara du code. 
+
+- Séance du 8 janvier 2017
+
+Durant cette deuxième séance, nous avons été à la recherche d'un plotter XY qui sera la base de notre projet, de seringues, d'un moteur qui poussera la seringue qui libérera de l'air qui fera pousser la crème qui sera présenter dans la douille. 
