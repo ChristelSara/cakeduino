@@ -1,7 +1,9 @@
 # Cahier de suivi du projet de Sara GRANDI
--- Le 18/12/2017                                 Décorateur de gâteau
+- Le 18/12/2017                                 
 
 Je suis en binôme avec Ralalasoa Christel . On a décider de faire un décorateur de gâteau avec Arduino par le biais d'une imprimante 2D. Mais de base on était plutôt sur le fait de faire un machine à Barbe a papa . Mais comme la machine a barbe a papa n'est pas tres efficace on a changé de projet.
+
+https://www.themadeco.fr/img/scenes/29-scene_v2.jpg
 
 On se tourne donc vers un décorateur de pâtisserie, il sera utilisé de la façon suivante :
 
