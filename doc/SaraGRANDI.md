@@ -3,6 +3,8 @@
 
 Je suis en binôme avec Ralalasoa Christel . On a décider de faire un décorateur de gâteau avec Arduino par le biais d'une imprimante 2D. Mais de base on était plutôt sur le fait de faire un machine à Barbe a papa . Mais comme la machine a barbe a papa n'est pas tres efficace on a changé de projet.
 
+![alt tag](https://www.themadeco.fr/img/scenes/29-scene_v2.jpg)
+
 On se tourne donc vers un décorateur de pâtisserie, il sera utilisé de la façon suivante :
 
 On posera un base de gateau (génoise etc..) et grâce au information donnée on va utiliser des seringues pour dessiner et décorer avec de la garniture le gâteau . C'est a dire qu'on va par exemple ordonner a l'imprimante via Arduino avec la forme du gâteau , la quantité de crème ainsi que les dimensions de la base pour que les ingrédients qui servent a décorer ne dépassent pas la base du gâteau.
