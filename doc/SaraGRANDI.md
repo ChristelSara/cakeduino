@@ -49,10 +49,9 @@ Nous avons , durant cette séance decider d'utiliser un plotter XY au lieu d'une
 
 Mais aussi grace au conseils de M. Masson,nous nous interresseront aussi au bras robot hydraulique mais en le transformant légerement et au lieu de l'utiliser avec l'eau on va plutot l'utiliser avec de l'air. C'est a dire que les seringues qui articulent le bras seront remplis d'air et non d'eau. On y ajoutera des servo-moteurs pour pouvoir commander le pas de la descente de la ganache dans la seringue .
 
-![alt tag](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifzfjol9PYAhUiIsAKHZGEAPwQjRwIBw&url=https%3A%2F%2Fwww.pinterest.fr%2Fexplore%2Fbras-robot%2F&psig=AOvVaw3hlF8uT18tboSxlYfdB8B7&ust=1515872650277322)
+![alt tag](https://i.pinimg.com/736x/ca/f4/db/caf4db8eab444065206d962a3e65ea17--robot-arm-model-kits.jpg)
 
 Durant cette séance nous avons aussi chercher des seringues qui pourrait contenir une assez grande quantité de ganache pour decorer un gateau. De plus on envisage d'installer plussieurs seringues sur le plotter XY comme ca le client aura plus de choix .
 
-![alt tag] (https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjd44e5mNPYAhVDORQKHbAVDFIQjRwIBw&url=https%3A%2F%2Fwww.cuisinstore.com%2F-seringue-a-decorer-inox-prd1723.html&psig=AOvVaw13Ek45j7WY7Cgb6FdfcN46&ust=1515872807877275)
-
+![alt tag](https://www.cuisinstore.com/media/imageCMS/seringue-a-decorer-inox-1307-350x350.jpg)
 
