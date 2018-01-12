@@ -3,8 +3,6 @@
 
 Je suis en binôme avec Ralalasoa Christel . On a décider de faire un décorateur de gâteau avec Arduino par le biais d'une imprimante 2D. Mais de base on était plutôt sur le fait de faire un machine à Barbe a papa . Mais comme la machine a barbe a papa n'est pas tres efficace on a changé de projet.
 
-https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwii29fZktPYAhXI1hQKHbjPBnwQjRwIBw&url=https%3A%2F%2Fwww.themadeco.fr%2Ffr%2F110-deco-gateau-anniversaire&psig=AOvVaw2yGACE9LdIF3EDx5jpqiAz&ust=1515871275449536
-
 On se tourne donc vers un décorateur de pâtisserie, il sera utilisé de la façon suivante :
 
 On posera un base de gateau (génoise etc..) et grâce au information donnée on va utiliser des seringues pour dessiner et décorer avec de la garniture le gâteau . C'est a dire qu'on va par exemple ordonner a l'imprimante via Arduino avec la forme du gâteau , la quantité de crème ainsi que les dimensions de la base pour que les ingrédients qui servent a décorer ne dépassent pas la base du gâteau.
@@ -40,3 +38,13 @@ Pendant le prochain cour :
 – Trouver les seringues de même
 
 – Penser à comment écrire le code
+
+- Le 08/01/2018 :
+
+Nous avons , durant cette séance decider d'utiliser un plotter XY au lieu d'une imprimante 2D. En effet le plotter XY nous permettra de décorer le gateau de facon plus simple . Nous avons chercher sur amazon, aliexpress et d'autre site des plotter XY. De plus pour que ce soit plus pratique a l'utilisation , sachant qu'un plotter XY s'assemble avec 4 segment pour faire un carrée on a décider d'enlever un segment pour pouvoir faire un plateau pour pouvoir y déposer le gateau à décorer.
+
+Mais aussi grace au conseils de M. Masson,nous nous interresseront aussi au bras robot hydraulique mais en le transformant légerement et au lieu de l'utiliser avec l'eau on va plutot l'utiliser avec de l'air. C'est a dire que les seringues qui articulent le bras seront remplis d'air et non d'eau. On y ajoutera des servo-moteurs pour pouvoir commander le pas de la descente de la ganache dans la seringue .
+
+Durant cette séance nous avons aussi chercher des seringues qui pourrait contenir une assez grande quantité de ganache pour decorer un gateau. De plus on envisage d'installer plussieurs seringues sur le plotter XY comme ca le client aura plus de choix .
+
+
