@@ -1,7 +1,7 @@
 # Cahier de suivi du projet de Sara GRANDI
 - Le 18/12/2017                                 
 
-Je suis en binôme avec Ralalasoa Christel . On a décider de faire un décorateur de gâteau avec Arduino par le biais d'une imprimante 2D. Mais de base on était plutôt sur le fait de faire un machine à Barbe a papa . Mais comme la machine a barbe a papa n'est pas tres efficace on a changé de projet.
+Je suis en binôme avec Ralalasoa Christel . On a décidé de faire un décorateur de gâteau avec Arduino par le biais d'une imprimante 2D. Mais de base on était plutôt sur le fait de faire un machine à Barbe a papa . Mais comme la machine à barbe a papa commerciale n'est pas tres efficace on a changé de projet.
 
 ![alt tag](https://www.themadeco.fr/img/scenes/29-scene_v2.jpg)
 
@@ -14,31 +14,20 @@ A la base on comptait utiliser des douilles de pâtisserie pour décorer le gât
 Durant cette séance on s'est consacrer à la recherche d'imprimante 3D qui est notre préoccupation principale . On a définit quelque rôles mais rien n'est encore fixe . On a pensé que une de nous deux se consacrerait plutôt au code de l'imprimante et l'autre plutôt au montage de l'imprimante. Je pense que je m'occuperais du code et Christel plutôt du montage .
 
 Les courses à faire :
-
 – Kit imprimante 3D (mais on utilise que 2 axes)
-
 – Seringues ( 4 ou 5 )
-
 – Crème (je le préparerais)
-
 – Base gâteau (je le préparerais)
 
 Les choses à faire:
-
 – Faire l' imprimantes 2D
-
 – Ecrire le code Arduino
-
 – Mécanisme qui va appuyer sur la seringue pour faire descendre une dose de crème
-
 – Penser a écrire le compte rendu chaque semaine.
 
 Pendant le prochain cour :
-
 – Continuer la recherche d'imprimante 3D et passer la commande
-
 – Trouver les seringues de même
-
 – Penser à comment écrire le code
 
 - Le 08/01/2018 :
