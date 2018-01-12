@@ -45,8 +45,14 @@ Pendant le prochain cour :
 
 Nous avons , durant cette séance decider d'utiliser un plotter XY au lieu d'une imprimante 2D. En effet le plotter XY nous permettra de décorer le gateau de facon plus simple . Nous avons chercher sur amazon, aliexpress et d'autre site des plotter XY. De plus pour que ce soit plus pratique a l'utilisation , sachant qu'un plotter XY s'assemble avec 4 segment pour faire un carrée on a décider d'enlever un segment pour pouvoir faire un plateau pour pouvoir y déposer le gateau à décorer.
 
+![alt tag](https://www.robotshop.com/media/files/images2/makeblock-xy-plotter-robot-kit-no-electronics-desc1.jpg)
+
 Mais aussi grace au conseils de M. Masson,nous nous interresseront aussi au bras robot hydraulique mais en le transformant légerement et au lieu de l'utiliser avec l'eau on va plutot l'utiliser avec de l'air. C'est a dire que les seringues qui articulent le bras seront remplis d'air et non d'eau. On y ajoutera des servo-moteurs pour pouvoir commander le pas de la descente de la ganache dans la seringue .
 
+![alt tag](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifzfjol9PYAhUiIsAKHZGEAPwQjRwIBw&url=https%3A%2F%2Fwww.pinterest.fr%2Fexplore%2Fbras-robot%2F&psig=AOvVaw3hlF8uT18tboSxlYfdB8B7&ust=1515872650277322)
+
 Durant cette séance nous avons aussi chercher des seringues qui pourrait contenir une assez grande quantité de ganache pour decorer un gateau. De plus on envisage d'installer plussieurs seringues sur le plotter XY comme ca le client aura plus de choix .
+
+![alt tag] (https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjd44e5mNPYAhVDORQKHbAVDFIQjRwIBw&url=https%3A%2F%2Fwww.cuisinstore.com%2F-seringue-a-decorer-inox-prd1723.html&psig=AOvVaw13Ek45j7WY7Cgb6FdfcN46&ust=1515872807877275)
 
 
