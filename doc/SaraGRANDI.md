@@ -55,3 +55,5 @@ Durant cette séance nous avons aussi chercher des seringues qui pourrait conten
 
 ![alt tag](https://www.cuisinstore.com/media/imageCMS/seringue-a-decorer-inox-1307-350x350.jpg)
 
+La semaine prochaine on va essayer de enfin commander le materiel nécessaire et de penser au code .
+
