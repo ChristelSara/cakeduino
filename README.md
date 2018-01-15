@@ -11,6 +11,6 @@ Ce projet consiste en la création d'un décorateur de gâteau avec Arduino .
 Cakeduino va permettre de décorer un gâteau comme le client le souhaite. En effet, le client rentre une commande sur arduino ensuite la machine se chargera de faire le travail c'est à dire ajouter la ganache, le coulis, et la crème dessus.
 
 # Matériel utilisé
-- Plotter XY
+- Imprimante 3D
 - Poches à douilles ou seringues
 - Moteur pas à pas
