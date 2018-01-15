@@ -13,3 +13,4 @@ Cakeduino va permettre de décorer un gateau comme le client le souhaite. En eff
 # Matériel utilisé
 - Plotter XY
 - Poches à douilles ou seringues
+- Moteur pas à pas
