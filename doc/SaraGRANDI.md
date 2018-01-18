@@ -55,7 +55,7 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
  
  ![alt tag](https://images-na.ssl-images-amazon.com/images/I/51jeIWHUKML._SY542_.jpg)
  
- ![alt tag](https://www.amazon.fr/Zeller-42804-Seringue-Plastique-Transparent/dp/B007XSTG2A/ref=pd_sbs_201_5?_encoding=UTF8&psc=1&refRID=479TC2WVVQNBJQK4XTMX)
+ https://www.amazon.fr/Zeller-42804-Seringue-Plastique-Transparent/dp/B007XSTG2A/ref=pd_sbs_201_5?_encoding=UTF8&psc=1&refRID=479TC2WVVQNBJQK4XTMX  (poche à douille)
  
  On va notamant commander des servo-moteurs pour controler le bras hydraulique.
  Pour la prochaine scéance il faut faire une presentation à l'oral et on va notament essayer de passer les commandes des seringues des douilles des tubes et des servo-moteur.
