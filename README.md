@@ -12,5 +12,9 @@ Cakeduino va permettre de décorer un gâteau comme le client le souhaite. En ef
 
 # Matériel utilisé
 - Imprimante 3D
-- Poches à douilles ou seringues
+- Poches à douilles seringues
 - Moteur pas à pas
+- Seringues
+- Morceux de bois
+- Colle
+- Tubes
