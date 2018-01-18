@@ -19,4 +19,12 @@ Enfin, nous avons essayé de définir quel serait le rôle de chacun. Je pense q
 
 - Séance du 8 janvier 2017
 
-Durant cette deuxième séance, nous avons été à la recherche d'un plotter XY qui sera la base de notre projet, de seringues, d'un moteur qui poussera la seringue qui libérera de l'air qui fera pousser la crème qui sera présenter dans la douille. 
+Durant cette deuxième séance, nous avons été à la recherche d'un plotter XY qui sera la base de notre projet, de seringues, d'un moteur qui poussera la seringue qui libérera de l'air qui fera pousser la crème qui sera présenter dans la douille (inspiré du bras hydraulique, voici un exemple : https://www.youtube.com/watch?v=P2r9U4wkjcc)
+
+- Séance du 15 janvier 2017
+
+Durant cette troisième séance, nous avons finalement décidé d'utiliser une imprimante 3D où on utlisera les 3 axes (vertical, horizontal (devant/derrière), horizontal (gauche/droite)). En effet, si nous voulons un beau rendu et pouvoir faire plus de choses, il est préférable de se servir de l'axe vertical. Ainsi, nous avons donc cherché une imprimante 3D à commander. 
+Nous avons réfléchi au système qui permettra à la douille de verser son contenu de façon autonome. Avec l'aide du professeur M.Masson, nous nous sommes inspirés du bras hydraulique et nous avons donc trouvé comment nous allons procéder : après avoir reçu une commande via Arduino, un moteur pas à pas poussera une première seringue qui contient de l'air, cet air passera par un tube et arrivera dans une seconde seringue (placée à l'envers) qu'il poussera. Comme la seconde seringue sera accrochée/collée à la douille (sous forme de seringue de pâtisserie), elle poussera cette dernière qui versera son contenu sur le gâteau. [se référer aux schémas pour plus de clarté] Nous aurons 4 douilles donc il faudra monter ce système 4 fois. Ainsi, nous avons cherché des seringues, des douilles et des moteurs pas à pas à commander. 
+
+Il nous reste à voir comment fonctionne le moteur pas à pas avec Arduino, comment accrocher les 4 douilles à l'imprimantes 3D, comment construire les 4 structues qui soutiendront le système "bras hydraulique" afin que ces structures puissent suivre la douille qui se déplacera pendant qu'elle décorera le gâteau. Il faudra aussi s'occuper du code pour l'imprimante 3D. 
+
