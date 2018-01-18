@@ -49,3 +49,16 @@ Durant cette séance nous avons aussi chercher des seringues qui pourrait conten
 
 La semaine prochaine on va essayer de enfin commander le materiel nécessaire et de penser au code .
 
+- Le 15/01/2018:
+
+ Durant cette semaine on à decider de remplacer le plotter XY par une imprimante 3D car c'est plus pratique pour pouvoir faire des dessins avec altitude. De plus on a compris le fonctionnement du bras hydraulique et donc on va le constrire nous meme avec des seringues et du bois . Comme on a decidé de mettre 4 poches à douilles dans l'imprimante 3D il faut donc 4 bras avec deux seringues dans ce bras c'est a dire 8 serigue de 100 ml pour que la poussée soit assez importante pour pousser la ganache dans les poches a douille (voir schéma).
+ 
+ ![alt tag](https://images-na.ssl-images-amazon.com/images/I/51jeIWHUKML._SY542_.jpg)
+ 
+ ![alt tag](https://www.amazon.fr/Zeller-42804-Seringue-Plastique-Transparent/dp/B007XSTG2A/ref=pd_sbs_201_5?_encoding=UTF8&psc=1&refRID=479TC2WVVQNBJQK4XTMX)
+ 
+ On va notamant commander des servo-moteurs pour controler le bras hydraulique.
+ Pour la prochaine scéance il faut faire une presentation à l'oral et on va notament essayer de passer les commandes des seringues des douilles des tubes et des servo-moteur.
+ Et pendant le temps restant on s'occupera à reflechir de comment utiliser les servo-moteurs avec arduino.
+ 
+
