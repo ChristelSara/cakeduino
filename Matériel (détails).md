@@ -1,9 +1,9 @@
-#Matériel :
+# Matériel :
 
-4 poches a douilles (2 crèmes, 1 coulis et des paillettes)
-Imprimante 3D
-2 seringues par douille (donc 8 seringues)
-1 moteur pas à pas par douille (donc 4 moteurs)
-Des morceaux de bois pour la structure (4 structures)
-De la colle pour coller le bout de la deuxième seringue à la douille et faire tenir la structure
-Des tubes pour faire passer l'air (2 tubes par structure donc 8 tubes)
+- 4 poches a douilles (2 crèmes, 1 coulis et des paillettes)
+- Imprimante 3D
+- 2 seringues par douille (donc 8 seringues)
+- 1 moteur pas à pas par douille (donc 4 moteurs)
+- Des morceaux de bois pour la structure (4 structures)
+- De la colle pour coller le bout de la deuxième seringue à la douille et faire tenir la structure
+- Des tubes pour faire passer l'air (1 tube par structure donc 4 tubes)
