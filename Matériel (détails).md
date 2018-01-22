@@ -7,3 +7,4 @@
 - Des morceaux de bois pour la structure (4 structures)
 - De la colle pour coller le bout de la deuxième seringue à la douille et faire tenir la structure
 - Des tubes pour faire passer l'air (1 tube par structure donc 4 tubes)
+- Pignons et crémaillères (4 pour chaque structure)
