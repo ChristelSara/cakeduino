@@ -61,4 +61,15 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
  Pour la prochaine scéance il faut faire une presentation à l'oral et on va notament essayer de passer les commandes des seringues des douilles des tubes et des servo-moteur.
  Et pendant le temps restant on s'occupera à reflechir de comment utiliser les servo-moteurs avec arduino.
  
+ - Le 22/01/2018:
+ 
+ Durant cette scéance on a presenté l'avancée de notre projet devant la classe et les professeurs et aussi ecouté l'avancée du projet de nos camarades. On peut retrouver le diapo sous forme pdf que l'on a presenté dans le dossier doc . Apres les presentations il restait 1 heure et durant cette heure on a chercher sur ebay quelque materiel et sous le conseil de M.Masson on a decider d'utiliser le systeme de pignon et crémaillere dans le mecanisme du bras hydraulique au niveau de la premiere seringue .
+ 
+  ![alt tag](http://www.hellopro.fr/images/produit-2/8/8/3/pignon-a-denture-trempee-alese-clavete-5879388.jpg)
+  
+  Avec le moteur pas a pas qui va pousser la seringue :
+  
+  ![alt tag](http://img.directindustry.fr/images_di/photo-g/8191-5112265.jpg)
+  
+  Durant la semaine de vacances je vais essayer de voir comment programmer le moteur pas a pas pour qu'on puisse lui rentrer un nombre de pas et qu'il avance de ce nombre de pas .
 
