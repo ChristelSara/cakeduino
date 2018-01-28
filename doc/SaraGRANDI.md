@@ -63,7 +63,7 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
  
  - Le 22/01/2018:
  
- Durant cette scéance on a presenté l'avancée de notre projet devant la classe et les professeurs et aussi ecouté l'avancée du projet de nos camarades. On peut retrouver le diapo sous forme pdf que l'on a presenté dans le dossier doc . Apres les presentations il restait 1 heure et durant cette heure on a chercher sur ebay quelque materiel et sous le conseil de M.Masson on a decider d'utiliser le systeme de pignon et crémaillere dans le mecanisme du bras hydraulique au niveau de la premiere seringue .
+ Durant cette scéance on a presenté l'avancée de notre projet devant la classe et les professeurs et aussi ecouté l'avancée du projet de nos camarades. On peut retrouver le diapo sous forme pdf que l'on a presenté dans le dossier doc . Apres les presentations il restait 1 heure et durant cette heure on a chercher sur ebay quelque materiel et sous le conseil de M.Masson on a decider d'utiliser le systeme de pignon et crémaillere dans le mecanisme du bras hydraulique au niveau de la premiere seringue . Il nous en faudra 4 c'est a dire un pour chaque bras .
  
   ![alt tag](http://www.hellopro.fr/images/produit-2/8/8/3/pignon-a-denture-trempee-alese-clavete-5879388.jpg)
   
