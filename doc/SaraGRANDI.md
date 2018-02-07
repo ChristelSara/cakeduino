@@ -73,3 +73,7 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
   
   Durant la semaine de vacances je vais essayer de voir comment programmer le moteur pas a pas pour qu'on puisse lui rentrer un nombre de pas et qu'il avance de ce nombre de pas .
 
+- Le 07/02/2018:
+
+ Aujourd'hui nous avons eu 1H30 de tp et on a recu les 4 seringues à douilles ainsi que les 4 moteur pas a pas . De plus monsieur Masson nous a commander l'imprimante 3D. Nous avons donc reflechis a quelles types de gateau le cakeduino fera et esquisser quelque croquis .
+ 
