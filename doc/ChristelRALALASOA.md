@@ -38,3 +38,5 @@ Nous avons donc cherché durant la séance des crémaillères et des pignons car
 
 Nous avons reçu les 4 douilles et les 4 moteurs pas à pas que nous avions commandés. Nous avons commandé l'imprimante 3D et les seringues avec leur tube.
 Nous avons réfléchi plus en détails à quels choix seront proposés par le client pour décorer son gâteau commme ça nous pourrons attaquer le code dès que nous recevrons l'imprimante 3D.
+
+![Seringue](https://ae01.alicdn.com/kf/HTB1p5SihzihSKJjy0Fiq6AuiFXa9/SZS-Chaude-De-D-coration-De-G-teau-D-corateur-Avec-8-Conseils-Buses-Givrage-Seringue.jpg_640x640.jpg) "Seringue"
