@@ -33,3 +33,8 @@ Il nous reste à voir comment fonctionne le moteur pas à pas avec Arduino, comm
 Nous avons fait fonctionner le moteur pas à pas avec arduino et nous avons réfléchi à comment nous allons faire marcher le moteur avec la seringue. Pour cela, nous allons nous menir d'une crémaillère et d'un pignon. La seringue sera "collée" sur la crémaillère et le pignon sera accroché sur la "roue" du moteur. L'engrenage du pignon sera emboîté avec la crémaillère et ainsi, lorsque le moteur tournera, il poussera la seringue.
 
 Nous avons donc cherché durant la séance des crémaillères et des pignons car il nous en faut 4 (une par structure).
+
+- Séance du 7 février 2018
+
+Nous avons reçu les 4 douilles et les 4 moteurs pas à pas que nous avions commandés. Nous avons commandé l'imprimante 3D et les seringues avec leur tube.
+Nous avons réfléchi plus en détails à quels choix seront proposés par le client pour décorer son gâteau commme ça nous pourrons attaquer le code dès que nous recevrons l'imprimante 3D.
