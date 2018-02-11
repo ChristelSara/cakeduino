@@ -75,5 +75,6 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
 
 - Le 07/02/2018:
 
- Aujourd'hui nous avons eu 1H30 de tp et on a recu les 4 seringues à douilles ainsi que les 4 moteur pas a pas . De plus monsieur Masson nous a commander l'imprimante 3D. Nous avons donc reflechis a quelles types de gateau le cakeduino fera et esquisser quelque croquis .
+ Aujourd'hui nous avons eu 1H30 de tp et on a recu les 4 seringues à douilles ainsi que les 4 moteur pas a pas . De plus monsieur Masson nous a commander l'imprimante 3D. Nous avons donc reflechis a quelles types de gateau le cakeduino fera et esquisser quelque croquis . De plus avec mon binome on a convenu que nous irons au Fablab pour faire les pignons et cremailleres . La semaine prochaine nous nous concentrerons sur le programme et se concentrer sur la reel fonction du cakeduino car ce que nous voulions faire etais trop vaste.
+ 
  
