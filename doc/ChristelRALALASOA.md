@@ -45,7 +45,7 @@ Nous avons réfléchi plus en détails à quels choix seront proposés par le cl
 
 Nous avons reçu l'imprimante 3D (AnetA8) ainsi nous avons commencé à la monter.
 
-- Séance du 24 mars 2018
+- Séance du 21 mars 2018
 
 Nous avons avancé le montage de l'imprimante 3D en dehors des séances (3h) et nous avons continué à la monter durant cette séance également. Le montage de l'imprimante 3D prend du temps car il n'y a pas de notice officielle donc nous devons nous débrouiller avec les instructions que nous trouvons sur Internet. Nous utilisons ce site : https://www.zvoon.net/imprimante-3d/montage-anet-a8-assemblage-prise-main/ et nous nous aidons parfois de vidéos sur Youtube quand nous ne comprenons pas ce que le site nous dit. 
 Nous avons reçu les seringues et leur tube. 
