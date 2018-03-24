@@ -40,3 +40,12 @@ Nous avons reçu les 4 douilles et les 4 moteurs pas à pas que nous avions comm
 Nous avons réfléchi plus en détails à quels choix seront proposés par le client pour décorer son gâteau commme ça nous pourrons attaquer le code dès que nous recevrons l'imprimante 3D.
 
 <img src="https://ae01.alicdn.com/kf/HTB1p5SihzihSKJjy0Fiq6AuiFXa9/SZS-Chaude-De-D-coration-De-G-teau-D-corateur-Avec-8-Conseils-Buses-Givrage-Seringue.jpg_640x640.jpg" width="150"> <img src="https://ae01.alicdn.com/kf/HTB15xzKg_nI8KJjSszbq6z4KFXaP/CE-ROSH-57HB41-401A-Stepper-moteur-couple-0-64N-M-Phase-actuelle-2-4A-pour-quipements.jpg" width="150">
+
+- Séance du 4 février 2018
+
+Nous avons reçu l'imprimante 3D (AnetA8) ainsi nous avons commencé à la monter.
+
+- Séance du 24 mars 2018
+
+Nous avons avancé le montage de l'imprimante 3D en dehors des séances (3h) et nous avons continué à la monter durant cette séance également. Le montage de l'imprimante 3D prend du temps car il n'y a pas de notice officielle donc nous devons nous débrouiller avec les instructions que nous trouvons sur Internet. Nous utilisons ce site : https://www.zvoon.net/imprimante-3d/montage-anet-a8-assemblage-prise-main/ et nous nous aidons parfois de vidéos sur Youtube quand nous ne comprenons pas ce que le site nous dit. 
+Nous avons reçu les seringues et leur tube. 
