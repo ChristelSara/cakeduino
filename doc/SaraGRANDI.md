@@ -82,7 +82,8 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
  Aujourd'hui, nous avons recu le kit à monter de l'imprimante 3D ( Anet A8). 
  
 ![alt tag](https://http2.mlstatic.com/impresora-3d-anet-a8-prusa-i3-nueva-kit-completo-D_NQ_NP_920603-MLA25830226665_082017-F.jpg)
-
+ (c'est le resultat qu'il faudra obtenir)
+ 
  Donc nous avons commencer à la montée grace à une notice trouvée sur internet (https://www.zvoon.net/imprimante-3d/montage-anet-a8-assemblage-prise-main/ ) et grace aussi à un tuto sur youtube qui explique tres bien . Mais on à remarquer que comme on n'a pas tres bien avancer le montage on en a conclut qui nous faudrait beaucoup plus de scéances pour pouvoir finir le montage de l'imprimante . A ce niveau on a pas tres bine gerer de le temps de montage . Du coup étant donnée que l'on a pas cours systematiquement toute les semaines de Arduino il nous faudra venir nouss même pour la monter en dehors des cours.
  
 - Le 21/03/2018:
