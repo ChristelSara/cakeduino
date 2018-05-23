@@ -90,4 +90,6 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
 
  Nous en sommes encore au montage de l'imprimante 3D, mais aujourdhui nous somme passée au montage électronique donc il ne nous reste pas beaucoup de chose à faire pour finir ce montage. On estime 1H au maximum pour tout finir et le montage sera bouclé. D'autre part on fait des dessins techniques pour pouvoir aller au fablab pour faire la structure du du bras hydraulique. 
  
- 
+- Le 23/05/2018 
+
+Je m'occupe du code pour le moteur pas a pas 
