@@ -92,4 +92,4 @@ La semaine prochaine on va essayer de enfin commander le materiel nécessaire et
  
 - Le 23/05/2018 
 
-Je m'occupe du code pour le moteur pas a pas 
+Je m'occupe du code pour le moteur pas a pas qui va permettre de pousser les seringues  .
